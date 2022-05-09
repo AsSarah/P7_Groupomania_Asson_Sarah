@@ -1,0 +1,14 @@
+.feed {
+    flex: 5.5;
+    
+}
+
+.feedWrapper {
+    padding: 20px;
+    background-color: white;
+}
+@media only screen and (max-width: 601px) {
+    .feedWrapper {
+        padding: 50px;
+    }
+}

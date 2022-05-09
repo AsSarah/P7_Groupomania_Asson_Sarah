@@ -1,0 +1,25 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+    
+}
+@media only screen and (max-width: 601px) {
+    .rightbar {
+        flex: 3.5 1;
+        visibility: hidden;
+    }
+
+    .topbarContainer {
+        /* height: 50px; */
+        width: 100%;
+        background-color: #FD2D01;
+        display: flex;
+        align-items: center;
+        position: sticky;
+        top: 0;
+        z-index: 999;
+        justify-content: space-around;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

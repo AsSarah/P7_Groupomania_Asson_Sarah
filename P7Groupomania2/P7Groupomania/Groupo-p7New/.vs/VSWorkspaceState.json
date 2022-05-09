@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Frontend",
+    "\\Frontend\\client",
+    "\\Frontend\\client\\src",
+    "\\Frontend\\client\\src\\components",
+    "\\Frontend\\client\\src\\components\\share",
+    "\\Frontend\\client\\src\\components\\topbar",
+    "\\Frontend\\client\\src\\pages",
+    "\\Frontend\\client\\src\\pages\\register",
+    "\\Frontend\\client\\src\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
